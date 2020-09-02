@@ -1,0 +1,9 @@
+requestURL: 'https://reqres.in'
+endpoint:
+  get: '/api/users?page=2'
+  post: '/api/users'
+  put: '/api/users/2'
+  patch: '/api/users/2'
+payload:
+  post: '{"name": "alok","job": "student"}'
+req: 'systran-systran-platform-for-language-processing-v1.p.rapidapi.com'

@@ -1,0 +1,23 @@
+{
+  "name": "temptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "/test/putTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.20.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.1.1",
+    "mochawesome": "^6.1.1",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "js-yaml": "^3.14.0"
+  }
+}
